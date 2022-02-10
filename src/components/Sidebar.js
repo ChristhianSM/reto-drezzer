@@ -1,5 +1,5 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faMusic, faUser, faHouse, faUsers } from '@fortawesome/free-solid-svg-icons'
+import { faMusic, faUser, faHouse, faUsers, faBook} from '@fortawesome/free-solid-svg-icons'
 import { Link } from 'react-router-dom'
 
 import React from 'react'
@@ -36,15 +36,15 @@ export const Sidebar = () => {
                             <FontAwesomeIcon icon= {faUsers} className = "mr-2"/>
                             Artistas</button>
                     </Link>
-                    <Link to="/albums">
-                        <button className='cursor-pointer mb-3 text-gray-400 block'>
-                            <FontAwesomeIcon icon= {faHouse} className = "mr-2"/>
-                            Álbumes</button>
-                    </Link>
                     <Link to = "/recientes">
                         <button className='cursor-pointer mb-3 text-gray-400 block'>
                             <FontAwesomeIcon icon= {faMusic} className = "mr-2"/>
                             Recientes</button>
+                    </Link>
+                    <Link to="/albums">
+                        <button className='cursor-pointer mb-3 text-gray-400 block'>
+                            <FontAwesomeIcon icon= {faBook} className = "mr-2"/>
+                            Álbumes</button>
                     </Link>
                 </div>
             </div>

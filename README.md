@@ -1,4 +1,4 @@
-# MusicApp : Aplicacion de Musica  :department_store:
+# MusicApp : Aplicacion de Musica  :musical_note:
 
 FractalUp : Reto
 
