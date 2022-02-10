@@ -26,14 +26,10 @@ Reproductor
 ## Demo: 
 
 <div align="center" style="margin-bottom:30px">
-  <img src="https://github.com/ChristhianSM/ecommerce-electro-store/blob/main/src/assets/demo/login.JPG" width="400" title="hover text">
-  <img src="https://github.com/ChristhianSM/ecommerce-electro-store/blob/main/src/assets/demo/perfil.JPG" width="400" title="hover text">
-  <img src="https://github.com/ChristhianSM/ecommerce-electro-store/blob/main/src/assets/demo/home.JPG" width="400" title="hover text">
-  <img src="https://github.com/ChristhianSM/ecommerce-electro-store/blob/main/src/assets/demo/descProduct.JPG" width="400" title="hover text">
-  <img src="https://github.com/ChristhianSM/ecommerce-electro-store/blob/main/src/assets/demo/categories.JPG" width="400" title="hover text">
-  <img src="https://github.com/ChristhianSM/ecommerce-electro-store/blob/main/src/assets/demo/shopping-cart.JPG" width="400" title="hover text">
-  <img src="https://github.com/ChristhianSM/ecommerce-electro-store/blob/main/src/assets/demo/payment.JPG" width="400" title="hover text">
-  <img src="https://github.com/ChristhianSM/ecommerce-electro-store/blob/main/src/assets/demo/form-shopping.JPG" width="400" title="hover text">
+  <img src="https://raw.githubusercontent.com/ChristhianSM/reto-drezzer/main/src/assets/demo1.JPG" width="400" title="hover text">
+  <img src="https://raw.githubusercontent.com/ChristhianSM/reto-drezzer/main/src/assets/demo2.JPG" width="400" title="hover text">
+  <img src="https://raw.githubusercontent.com/ChristhianSM/reto-drezzer/main/src/assets/demo3.JPG" width="400" title="hover text">
+  <img src="https://raw.githubusercontent.com/ChristhianSM/reto-drezzer/main/src/assets/demo4.JPG" width="400" title="hover text">
 </div>
 
 
